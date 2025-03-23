@@ -7,7 +7,7 @@
 
 ## 🔥 About Me
 
-I am a **Full-Stack Developer** with over **9 years** of experience in designing, developing, and deploying scalable web applications using **JavaScript, Python, SQL, Node.js, and React.js**. I specialize in **backend and frontend development**, API integration, database management, and user-centric solutions.
+I am a **Full-Stack Developer** with over **9 years** of experience in designing, developing, and deploying scalable web applications using **JavaScript, PHP, Python, SQL, Node.js, and React.js**. I specialize in **backend and frontend development**, API integration, database management, and user-centric solutions.
 
 ---
 
